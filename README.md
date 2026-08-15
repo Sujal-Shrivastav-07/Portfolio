@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio
 
 A dark, terminal-themed personal portfolio — React + Vite + Tailwind CSS,
@@ -147,3 +148,6 @@ git push -u origin main
   compression, and basic security headers.
 - **Compose orchestration:** one service, mapped to host port `8080` by
   default (overridable via `.env`).
+=======
+# Portfolio
+>>>>>>> f1a4cdcf02a510af0fd1883a4d72d3193430da33
