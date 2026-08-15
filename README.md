@@ -1,10 +1,8 @@
-<<<<<<< HEAD
+
 # Portfolio
 
 A dark, terminal-themed personal portfolio — React + Vite + Tailwind CSS,
-containerized with a multi-stage Docker build and served via Nginx. Built for
-**Practical-7: Create a Dockerfile for a simple static web application**
-(Silver Oak University).
+containerized with a multi-stage Docker build and served via Nginx.
 
 Everything on the page (name, bio, skills, projects, experience) is
 **placeholder content** — see [Editing Content](#editing-content) below to
@@ -148,6 +146,6 @@ git push -u origin main
   compression, and basic security headers.
 - **Compose orchestration:** one service, mapped to host port `8080` by
   default (overridable via `.env`).
-=======
-# Portfolio
->>>>>>> f1a4cdcf02a510af0fd1883a4d72d3193430da33
+
+
+
