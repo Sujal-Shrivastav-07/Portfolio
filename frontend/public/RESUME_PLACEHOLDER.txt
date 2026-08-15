@@ -1,0 +1,3 @@
+Replace this file with your real resume, saved as "resume.pdf" in this same
+folder (frontend/public/resume.pdf). The Navbar's "Resume" button already
+links to /resume.pdf, so no code changes are needed once you add it.
